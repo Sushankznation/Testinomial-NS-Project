@@ -37,9 +37,11 @@
 ### Project-Structure : 🏠
 ├── images
 
+├── css
+
 ├── index.html
 
-└── styles.css
+└── style.css
 
 ------------
 
