@@ -1,4 +1,4 @@
-# TESTINOMIAL GRID SECTION ✔
+# TESTINOMIAL GRID SECTION 📚
 
 ------------
 ![Image](https://raw.githubusercontent.com/Sushankznation/Order-Summery-NS-Project/master/images/image.png?token=GHSAT0AAAAAABV4DXQOX7PSQEXKD4J4KZ44YWSJSKQ)
@@ -53,6 +53,6 @@
 
 ------------
 
-### Author
-- https://github.com/Sushankznation
-- sushantbharwal@gmail.com 
+### Author : 👨🏼‍🎓
+- https://github.com/Sushankznation 📩
+- sushantbharwal@gmail.com 📧
