@@ -1,4 +1,4 @@
-# ORDER-SUMMERY-CARD ✔
+# TESTINOMIAL GRID SECTION ✔
 
 ------------
 ![Image](https://raw.githubusercontent.com/Sushankznation/Order-Summery-NS-Project/master/images/image.png?token=GHSAT0AAAAAABV4DXQOX7PSQEXKD4J4KZ44YWSJSKQ)
