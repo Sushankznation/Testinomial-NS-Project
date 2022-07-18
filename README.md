@@ -3,7 +3,7 @@
 ------------
 ![Image](https://raw.githubusercontent.com/Sushankznation/Order-Summery-NS-Project/master/images/image.png?token=GHSAT0AAAAAABV4DXQOX7PSQEXKD4J4KZ44YWSJSKQ)
 ## Discription : 🤙
-- This is basically a Order Summery Card .Which I created for the Level-2 project for NS.
+- This is basically a Testinomial Grid Section project. Which I created for the Level-2 project for NS.
 
 ------------
 
